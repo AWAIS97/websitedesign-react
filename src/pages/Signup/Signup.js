@@ -1,6 +1,6 @@
 import React from 'react'
 import {homeObjThree } from'./Data'
-import { InfoSection,Pricing } from "../../components"
+import { InfoSection } from "../../components"
 
 
 function Signup() {

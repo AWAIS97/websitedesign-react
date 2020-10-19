@@ -1,7 +1,5 @@
 import React from 'react'
 import {Button} from '../../globalStyle'
-import { AiFillThunderbolt } from 'react-icons/ai';
-import {GiCrystalBars} from 'react-icons/gi';
 import {GiCutDiamond,GiRock,GiFloatingCrystal} from 'react-icons/gi'
 import {IconContext} from 'react-icons/lib'
 

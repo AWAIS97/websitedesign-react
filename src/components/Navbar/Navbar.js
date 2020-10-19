@@ -46,12 +46,14 @@ function Navbar() {
                     <NavItem>
                         <NavLinks to="/products">Products</NavLinks>
                     </NavItem>
+                    <NavItemBtn>
                     {button ? (
                         <NavBtnLink to ="/sign-up"><Button primary>Sign Up</Button></NavBtnLink>
                     ): (
                         <NavBtnLink to ="/sign-up"><Button fontBig primary>Sign Up</Button></NavBtnLink>
 
                     )}
+                    </NavItemBtn>
                     </NavMenu>
             </NavbarContainer>
         </Nav>
